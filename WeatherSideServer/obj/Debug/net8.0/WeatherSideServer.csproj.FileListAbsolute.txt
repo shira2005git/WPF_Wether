@@ -1,7 +1,0 @@
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.csproj.AssemblyReference.cache
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.GeneratedMSBuildEditorConfig.editorconfig
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.AssemblyInfoInputs.cache
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.AssemblyInfo.cs
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.csproj.CoreCompileInputs.cache
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.MvcApplicationPartsAssemblyInfo.cs
-C:\תכנות\תכנות\Experis\C#\5\WetherSideClient\WeatherSideServer\obj\Debug\net8.0\WeatherSideServer.MvcApplicationPartsAssemblyInfo.cache

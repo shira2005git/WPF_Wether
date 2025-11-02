@@ -3,20 +3,31 @@
   "WorkspaceRootPath": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\weathersideserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\weathersideserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\services\\wetherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\services\\wetherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shira\\AppData\\Roaming\\Microsoft\\UserSecrets\\c7934d03-d12c-49ae-91ac-b220cb7394cb\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\wethersideclient\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|solutionrelative:wethersideclient\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\wethersideclient\\convert\\temptobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|solutionrelative:wethersideclient\\convert\\temptobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\services\\wetherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\services\\wetherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\weathersideserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|solutionrelative:weathersideserver\\weathersideserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2548053D-21AD-4ED4-8BBE-A02954270240}|WeatherSideServer\\WeatherSideServer.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\weathersideserver\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\wethersideclient\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|solutionrelative:wethersideclient\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\wethersideclient\\convert\\temptobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|solutionrelative:wethersideclient\\convert\\temptobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7932E8BB-50A9-4EFF-AADD-1124415204DB}|WetherSideClient\\WetherSideClient.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\experis\\c#\\5\\wethersideclient\\wethersideclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +93,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 309,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +105,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\shira\\AppData\\Roaming\\Microsoft\\UserSecrets\\c7934d03-d12c-49ae-91ac-b220cb7394cb\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\shira\\AppData\\Roaming\\Microsoft\\UserSecrets\\c7934d03-d12c-49ae-91ac-b220cb7394cb\\secrets.json",
+              "ToolTip": "C:\\Users\\shira\\AppData\\Roaming\\Microsoft\\UserSecrets\\c7934d03-d12c-49ae-91ac-b220cb7394cb\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\shira\\AppData\\Roaming\\Microsoft\\UserSecrets\\c7934d03-d12c-49ae-91ac-b220cb7394cb\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T17:32:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherSideServer\\appsettings.json",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\appsettings.json*",
+              "RelativeToolTip": "WeatherSideServer\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T17:31:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Controllers\\WeatherController.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Controllers\\WeatherController.cs",
@@ -110,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Controllers\\WeatherForecastController.cs",
@@ -122,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ForecastResponse.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Models\\ForecastResponse.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Models\\ForecastResponse.cs",
@@ -134,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IWeatherService.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Services\\IWeatherService.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Services\\IWeatherService.cs",
@@ -152,37 +185,38 @@
               "RelativeDocumentMoniker": "WetherSideClient\\Services\\WeatherApiService.cs",
               "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Services\\WeatherApiService.cs",
               "RelativeToolTip": "WetherSideClient\\Services\\WeatherApiService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T08:02:32.225Z"
+              "WhenOpened": "2025-09-30T08:02:32.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WetherService.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Services\\WetherService.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Services\\WetherService.cs",
               "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Services\\WetherService.cs",
               "RelativeToolTip": "WeatherSideServer\\Services\\WetherService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T07:52:38.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "TempToBrushConverter.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Convert\\TempToBrushConverter.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\Convert\\TempToBrushConverter.cs",
               "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Convert\\TempToBrushConverter.cs",
               "RelativeToolTip": "WetherSideClient\\Convert\\TempToBrushConverter.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T19:25:08.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ForecastDay.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Models\\ForecastDay.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Models\\ForecastDay.cs",
@@ -194,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Data\\DBContext.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Data\\DBContext.cs",
@@ -206,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\Models\\City.cs",
               "RelativeDocumentMoniker": "WeatherSideServer\\Models\\City.cs",
@@ -218,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\ViewModels\\MainViewModel.cs",
@@ -230,20 +264,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "WeatherSideServer.csproj",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\WeatherSideServer.csproj",
               "RelativeDocumentMoniker": "WeatherSideServer\\WeatherSideServer.csproj",
               "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WeatherSideServer\\WeatherSideServer.csproj",
               "RelativeToolTip": "WeatherSideServer\\WeatherSideServer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T11:40:19.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T11:40:19.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\ViewModels\\BaseViewModel.cs",
@@ -255,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CityService.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Services\\CityService.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\Services\\CityService.cs",
@@ -267,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ICityService.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Services\\ICityService.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\Services\\ICityService.cs",
@@ -279,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\View\\DataContext.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\View\\DataContext.cs",
@@ -291,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ForecastResponse.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\Models\\ForecastResponse.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\Models\\ForecastResponse.cs",
@@ -303,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WetherSideClient\\MainWindow.xaml.cs",
@@ -315,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Experis\\C#\\5\\WetherSideClient\\WetherSideClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WetherSideClient\\MainWindow.xaml",
